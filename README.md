@@ -14,3 +14,4 @@ ServiceB:
 - if it has returns  MapSettings.
 - else returns the  "API key is not valid."  message.
 
+For more information about the project: [project_details.pdf](project_details.pdf)
