@@ -1,5 +1,7 @@
 # AspNetCore-Exercise
 
+To test the projet first run ServiceB then run ServiceA.
+
 There are two service in this project named ServiceA and ServiceB.
 
 ServiceA:
@@ -12,4 +14,3 @@ ServiceB:
 - if it has returns  MapSettings.
 - else returns the  "API key is not valid."  message.
 
-To test the projet first run ServiceB then run ServiceA.
