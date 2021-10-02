@@ -5,7 +5,7 @@ To test the projet first run ServiceB then run ServiceA.
 There are two service in this project named ServiceA and ServiceB.
 
 ServiceA:
-- Make a request to ServiceA
+- Make a request to ServiceB
 - The request has an API header named "X-API-KEY"
 - The value of API header is "123"
 
